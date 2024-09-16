@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\parab\\Azure_Devops\\Azure_DevOps.csproj": {}
+    "c:\\Users\\parab\\Azure_Devops\\Azure_DevOps.csproj": {}
   },
   "projects": {
-    "C:\\Users\\parab\\Azure_Devops\\Azure_DevOps.csproj": {
+    "c:\\Users\\parab\\Azure_Devops\\Azure_DevOps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parab\\Azure_Devops\\Azure_DevOps.csproj",
+        "projectUniqueName": "c:\\Users\\parab\\Azure_Devops\\Azure_DevOps.csproj",
         "projectName": "Azure_DevOps",
-        "projectPath": "C:\\Users\\parab\\Azure_Devops\\Azure_DevOps.csproj",
+        "projectPath": "c:\\Users\\parab\\Azure_Devops\\Azure_DevOps.csproj",
         "packagesPath": "C:\\Users\\parab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parab\\Azure_Devops\\obj\\",
+        "outputPath": "c:\\Users\\parab\\Azure_Devops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parab\\AppData\\Roaming\\NuGet\\NuGet.Config"
